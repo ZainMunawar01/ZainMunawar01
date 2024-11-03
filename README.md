@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zain Munawar</h1>
 
 
-<img align="right" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fgif%2Fblah-eye-roll-minion-e31zq37ho5x4ew3a.html&psig=AOvVaw1w0EAN1xV9cbapRJKQQYYK&ust=1730730267829000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDm4-yuwIkDFQAAAAAdAAAAABAP">
+<img align="right" width="400" src="https://gifdb.com/images/high/blah-eye-roll-minion-e31zq37ho5x4ew3a.webp">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainmunawar01&label=Profile%20views&color=0e75b6&style=flat" alt="zainmunawar01" /> </p>
