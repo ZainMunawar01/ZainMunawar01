@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zain Munawar</h1>
 
 
-<img align="right" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZybnpqYndvZTJ6cHJieXpxNnN0YjdxbHU1Z2MyanE1cDZ4cnhjayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ltIFdjNAasOwVvKhvx/giphy.webp">
+<img align="right" width="400" src="https://i.pinimg.com/originals/0a/71/d1/0a71d1246e21cd5fb8373af482104aae.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainmunawar01&label=Profile%20views&color=0e75b6&style=flat" alt="zainmunawar01" /> </p>
