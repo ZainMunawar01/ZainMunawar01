@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zain Munawar</h1>
 
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fflex-dance-move-gifs&psig=AOvVaw2OYt0DmRyD-AEA57vMUzY8&ust=1730729995760000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKD3i-2twIkDFQAAAAAdAAAAABAJ">
+<img align="right" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fflex-dance-move-gifs&psig=AOvVaw2OYt0DmRyD-AEA57vMUzY8&ust=1730729995760000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKD3i-2twIkDFQAAAAAdAAAAABAJ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainmunawar01&label=Profile%20views&color=0e75b6&style=flat" alt="zainmunawar01" /> </p>
 
